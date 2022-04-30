@@ -1,6 +1,6 @@
 // arreglo de objetos
 
-export function pintarTienda() {
+export function pintarTienda(){
 
 
 

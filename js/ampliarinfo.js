@@ -26,6 +26,8 @@
          let precio = document.getElementById("preciog")
          precio.textContent = producto.precio
 
+         return producto
+
      }
 
 
